@@ -4,17 +4,19 @@
 ## LG 스마트 씽큐 센서 앱 바로가기
 [LG 스마트 씽큐 센서 옷장 온습도관리](https://play.google.com/store/apps/details?id=com.inseop.lg_app)
 
+## LG 스마트 씽큐 센서
+* [제품 상세 설명](https://www.lge.co.kr/lgekor/product/accessory/smart-life/productDetail.do?catId=8220&prdId=EPRD.301654)
+* 모델명 : AIHC61
+* LG 스마트 씽큐 센서 소개 영상
+
+[![Video Label](http://img.youtube.com/vi/XsV0OR0_UCw/0.jpg)](https://youtu.be/XsV0OR0_UCwt=0s)
+
+*** 
+
 ## 개발환경
 * Python 3.5.3
 * Android
 * 라즈베리파이3
-
-## LG 스마트 씽큐 센서
-* 모델명 : AIHC61
-* [제품 상세 설명](https://www.lge.co.kr/lgekor/product/accessory/smart-life/productDetail.do?catId=8220&prdId=EPRD.301654)
-* LG 스마트 씽큐 센서 소개 영상
-
-[![Video Label](http://img.youtube.com/vi/XsV0OR0_UCw/0.jpg)](https://youtu.be/XsV0OR0_UCwt=0s)
 
 ## 1. LG 스마트 씽큐 센서 -> 라즈베리파이 서버
 * 라즈베리파이 서버에서 센서의 블루투스 데이터(온도, 습도, 배터리)를 받아옵니다.
