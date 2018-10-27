@@ -30,7 +30,7 @@ public class LGAppWidget extends AppWidgetProvider {
     public static ComponentName mService = null; //서비스 클래스 시작을 위해 ComponentName 형 변수 선언.
 
     //서버주서
-    public static final String sIP = "119.203.57.191";
+    public static final String sIP = "서버 주소";
     //사용할 통신 포트
     public static final int sPORT = 50007;
     public static int curCount=0;
