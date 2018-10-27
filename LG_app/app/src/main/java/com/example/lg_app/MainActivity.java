@@ -109,7 +109,7 @@ public class MainActivity extends AppCompatActivity{
     private SendData mSendData = null; // 통신 쓰레드
 
     //서버주서
-    public static final String sIP = "119.203.57.191";
+    public static final String sIP = "서버 주소";
     //사용할 통신 포트
     public static final int sPORT = 50007;
     public static String msg2="0";
