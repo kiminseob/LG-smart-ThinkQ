@@ -174,3 +174,7 @@ def server():
 ## LG 앱 데모영상
 
 [![Video Label](http://img.youtube.com/vi/d4JpNJlxt-g/0.jpg)](https://youtu.be/d4JpNJlxt-g=0s)
+
+## 장려상
+![](https://scontent-icn1-1.xx.fbcdn.net/v/t1.0-9/24910127_1995107683916722_6833182110088099161_n.jpg?_nc_cat=105&_nc_ht=scontent-icn1-1.xx&oh=212b49a3cfd487789dfc22346afcc03b&oe=5D0C4B3A)
+
